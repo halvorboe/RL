@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+.cquery_cache
 
 # Compiled Object files
 *.slo
